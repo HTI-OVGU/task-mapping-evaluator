@@ -1,0 +1,12 @@
+.vs/
+.idea/
+x64/
+export/
+*.filters
+*.user
+*.log
+*.gv
+/TaskMapping/*.pdf
+*.lp
+/TaskMapping/results
+*.a
